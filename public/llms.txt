@@ -1,0 +1,10 @@
+# Atelier
+
+> Multi-agent research framework that automates literature reviews, citation generation, research gap analysis, methodology recommendation, and report compilation from uploaded PDFs.
+
+Atelier coordinates five specialised AI agents — Literature Review, Citation, Research Gap, Methodology, and Report Generator — that hand outputs to each other to produce a publishable research manuscript.
+
+## Pages
+
+- [Home](/): Overview of the multi-agent framework and how the five agents collaborate.
+- [Sign in](/auth): Sign in or create an Atelier account.
