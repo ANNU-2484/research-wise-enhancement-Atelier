@@ -188,3 +188,29 @@ Roadmap Generation
       |
       v
 Structured Research Report
+
+## 🎥 Project Demo
+
+The following video demonstrates the working of **Atelier – An Agentic AI Framework for Intelligent Research Automation, Scientific Knowledge Discovery and Autonomous Research Assistance**.
+
+### Demo Video
+
+▶️ **[Watch the Atelier Project Demo]**
+
+The demonstration covers:
+
+- User authentication and account management
+- Research topic creation
+- Research paper upload and management
+- Paper relevance checking
+- Multi-agent research analysis
+- Literature review generation
+- Paper comparison
+- Research gap identification
+- Methodology recommendation
+- Citation generation
+- Evidence verification
+- Research novelty analysis
+- Research roadmap generation
+- AI-assisted research chat
+- Final research report generation
